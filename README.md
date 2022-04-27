@@ -6,8 +6,8 @@ This You Can Edit Memory In Realtime Also Without Any Compilation
 
 
 ╔═══════════════════════════════════════════╗
-║➤ Tool Name : MeMoryPatcher-X               .     .      . .     ║
-║➤ Create BY : IAMX [ Telegram | IAMX_YT ]     .    .   .        .║
-║➤ Youtube  : Youtube.com/IAMX20       .  .    . .     .   .       ║
-║➤ Github : https://github.com/IAMX-YT.  .  . .   .  .  .   ..     .   ║
+║➤ Tool Name : MeMoryPatcher-X                     ║
+║➤ Create BY : IAMX [ Telegram | IAMX_YT ]         ║
+║➤ Youtube  : Youtube.com/IAMX20                   ║
+║➤ Github : https://github.com/IAMX-YT             ║
 ╚═══════════════════════════════════════════╝
