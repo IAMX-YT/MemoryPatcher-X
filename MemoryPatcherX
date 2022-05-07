@@ -1,2 +1,5 @@
+MemoryPatcherX(){
 echo "Updating..."
 echo "Improving Speed Of shell"
+exit;
+}
