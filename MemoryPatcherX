@@ -1,8 +1,8 @@
 MemoryPatcherX(){
 clear
+echo "$1 $2 $3 $4" >/dev/null 2>&1
 echo "Updating..."
 echo "Improving Speed Of shell"
-echo "$1 $2 $3 $4" >/dev/null 2>&1
 clear
 exit;
 }
